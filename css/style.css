@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@700&display=swap');
+body {
+	margin: 0;
+	padding: 0;
+	height: 100vh;
+	color: white;
+}
+#particles-js {
+	height: 100%;
+	background: url('https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?size=626&ext=jpg');
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.particles-js-canvas-el {
+	position: absolute;
+}
+.text {
+	justify-content: left;
+	margin: 30px;
+	font-size: 30px;
+	color: #4d0000;
+	width: 50%;
+	margin-left: -20px;
+}
+nav {
+	width: 100%;
+	background: rgba(255, 136, 77, 0.5);
+	position: fixed;
+	top: 0;
+	height: 70px;
+}
+nav > h1 {
+	font-family: 'Lemonada', cursive;
+	color: white;
+	margin-left: 10px;
+	padding-bottom: 10px;
+	font-size: 25px;
+}
+form > h1 {
+	color: #4d0000;
+}
+form {
+	text-align: center;
+}
+footer {
+	width: 100%;
+	background: rgba(255, 136, 77, 0.5);
+	position: fixed;
+	bottom: 0;
+	height: 30px;
+	text-align: center;
+	padding: 15px;
+}
+footer > h3 {
+	color: #4d0000;
+}
