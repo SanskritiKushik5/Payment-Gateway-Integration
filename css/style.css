@@ -50,8 +50,9 @@ footer {
 	position: fixed;
 	bottom: 0;
 	text-align: center;
-	padding: 1px;
+	font-family: 'Lemonada', cursive;
 }
 footer > h3 {
 	color: #4d0000;
+	margin: 0px;
 }
