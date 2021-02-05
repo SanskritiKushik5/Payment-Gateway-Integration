@@ -49,9 +49,8 @@ footer {
 	background: rgba(255, 136, 77, 0.5);
 	position: fixed;
 	bottom: 0;
-	height: 30px;
 	text-align: center;
-	padding: 15px;
+	padding: 1px;
 }
 footer > h3 {
 	color: #4d0000;
