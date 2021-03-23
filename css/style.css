@@ -32,9 +32,9 @@ nav {
 	height: 70px;
 }
 nav > h1 {
-	font-family: 'Lemonada', cursive;
-	color: white;
-	margin-left: 10px;
+	font-family: sans-serif;
+	color: rgb(75, 11, 11);
+	margin-left: 15px;
 	padding-bottom: 10px;
 	font-size: 25px;
 }
@@ -50,7 +50,7 @@ footer {
 	position: fixed;
 	bottom: 0;
 	text-align: center;
-	font-family: 'Lemonada', cursive;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 footer > h3 {
 	color: #4d0000;
